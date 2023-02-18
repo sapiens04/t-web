@@ -1,0 +1,4 @@
+origin
+Zxcvbnm1
+c++
+CASE-STUDY
